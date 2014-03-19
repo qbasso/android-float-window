@@ -72,7 +72,7 @@ public class PopupHelper {
 		DisplayMetrics dm = c.getResources().getDisplayMetrics();
 		mWindow.setContentView(v);
 		mWindow.setWidth(dm.widthPixels);
-		mWindow.setHeight(dm.heightPixels-anchor.getBottom()*2);
+		mWindow.setHeight(dm.heightPixels-anchor.getBottom()*2	);
 		// mWindow.setAnimationStyle(R.style.UndoAnimationStyle);
 		mWindow.showAtLocation(anchor, Gravity.NO_GRAVITY, 0,
 				anchor.getHeight());
