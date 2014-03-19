@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">float-view</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="entries">
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+        <item>Android</item>
+    </string-array>
+
+</resources>
